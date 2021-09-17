@@ -266,14 +266,3 @@ function handleClick() {
       alert("Username Github saya adalah : ARELIA MAIA ASHARY, Silahkan klik OK untuk mengunjungi akun github saya");
 }
 
-document.getElementById("button-id").addEventListener("click", handleClick);
-function handleClick() {
-      console.log("tes");
-      alert("Id Github saya adalah : 88821251");
-}
-
-document.getElementById("button-url").addEventListener("click", handleClick);
-function handleClick() {
-      console.log("tes");
-      alert("Url Github saya adalah : https://api.github.com/users/maiaarelia");
-}
