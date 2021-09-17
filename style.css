@@ -1,0 +1,232 @@
+body {
+    background-color: rgb(237, 209, 240);
+    
+}
+
+.row {
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-family: "Rokkitt";
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 21px;
+}
+
+.about-col {
+    flex-basis: 31%;
+    background:rgb(232, 189, 243);
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+    box-shadow: 7px 7px 20px #b25ac9;
+}
+
+#medsos {
+    display: flex;
+    justify-content: center;
+   padding: 15px;
+}
+
+#medsos img{
+    display: flex;
+    justify-content: center;
+    padding: 0 0 0 60px;
+   
+}
+
+.col-3 {
+    width: 33.33%;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.col-3 h4 {
+    padding-bottom: 10px;
+    border-bottom: 1px solid;
+    margin-bottom: 15px;
+    font-family: "Domine";
+}
+
+
+
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#hob {
+    margin-top: 3%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+#hob1 img {
+   border-radius: 50%;
+   width: 250px;
+   height: 200px;
+   padding: 40px;
+   display: flex;
+}
+
+ #hob1 p{
+    text-align: justify;
+    width: 300px;
+    padding: 10px;
+    font-family: "Rokkitt";
+ }
+
+
+
+.quot{
+    font-family: "Trirong";
+    display: flex;
+    justify-content: space-around;
+    
+}
+#quote{ 
+    padding: 20px;
+}
+
+h5{
+    font-size: 20px;
+    font-family: "Sofia";
+}
+ 
+#skil {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 100%;
+  }
+
+  .card {
+    width: 25%;
+    border: 2px solid plum;
+  }
+  
+  .card img {
+    width: 100%;
+  }
+  
+  .card div {
+    padding: 10px;
+  }
+
+  .card div span{
+    font-family: "Rokkitt";
+    text-align: justify;
+  }
+  
+  h3{
+    text-align: center;
+    color: black;
+  }
+
+
+h5{
+    font-size: 20px;
+    font-family: "Rokkitt";
+}
+.list{
+    width: 70%;
+    border-collapse: collapse;
+    box-shadow: 0 8px 8px 8px rgb(189, 83, 189);
+    overflow: hidden;
+    border: 10px solid rgb(237, 209, 240);
+}
+
+.list th {
+    padding: 10px 7px;
+    text-align: left;
+    font-family: "Trirong";
+}
+
+.list td {
+    padding: 10px 7px;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+footer{
+    color: whitesmoke;
+    background-color: rgb(227, 170, 241);
+    width: 100%;
+    height: 30px;
+    float: left;
+    margin: 50px 0 0 0;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: "Domine";
+  }
+
+@media screen and (max-width: 700px) {
+.row {
+    flex-direction: column;
+}
+
+#aboutgithub {
+    flex-direction: column;
+}
+
+#another-git {
+    flex-direction: column;
+}
+
+
+#medsos img{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#hob1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#hob1 img {
+    display: flex;
+    flex-wrap: wrap;
+ }
+
+#medsos{
+    display: flex;
+    flex-wrap: wrap;
+}
+}
+
+
+@media screen and (max-width: 768px) {
+.col-3 {
+    width: 100%;
+}
+}
