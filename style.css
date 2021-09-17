@@ -166,7 +166,6 @@ h5{
     align-items: center;
 }
 .list{
-    width: 30%;
     border-collapse: collapse;
     box-shadow: 0 7px 7px 7px rgb(189, 83, 189);
     overflow: hidden;
@@ -264,7 +263,7 @@ footer{
 }
 
 .list {
-    width: 10%;
+    width: 5%;
     overflow: hidden;
 }
 
