@@ -171,6 +171,7 @@ h5{
     overflow: hidden;
     border: 10px solid rgb(237, 209, 240);
     align-items: center;
+    font-size: 12px;
 }
 
 .list th {
@@ -265,6 +266,7 @@ footer{
 .list {
     width: 5%;
     overflow: hidden;
+    
 }
 
 .play {
