@@ -162,7 +162,7 @@ h5{
     font-family: "Rokkitt";
 }
 .list{
-    width: 70%;
+    width: 50%;
     border-collapse: collapse;
     box-shadow: 0 7px 7px 7px rgb(189, 83, 189);
     overflow: hidden;
@@ -250,6 +250,10 @@ footer{
     flex-wrap: wrap;
     text-align: justify;
     display: contents;
+}
+
+.list {
+    width: 50%;
 }
 
 }
