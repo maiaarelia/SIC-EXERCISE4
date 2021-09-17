@@ -255,21 +255,9 @@ footer{
     width: 30%;
 }
 
-.play {
-    width: 10%;
-}
 
-.list th {
-    display: flex;
-    flex-wrap: wrap;
-    text-align: justify;
-    display: contents;
-}
 
-.list td {
-    display: flex;
-    padding: 20px;
-}
+
 
 }
 
