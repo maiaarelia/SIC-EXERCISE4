@@ -138,7 +138,7 @@ document.getElementById("acc-github").style.borderRadius = "10px";
 document.getElementById("acc-github").style.transition = "1s";
 document.getElementById("acc-github").style.boxSizing = "border-box";
 document.getElementById("acc-github").style.padding = "10px 7px";
-document.getElementById("acc-github").style.boxShadow = "20px 20px 20px #b25ac9";
+document.getElementById("acc-github").style.boxShadow = "7px 7px 10px #b25ac9";
 
 
 document.getElementById("git-id").style.textAlign = "center";
@@ -167,7 +167,7 @@ document.getElementById("acc1-github").style.background = "rgb(232, 189, 243)";
 document.getElementById("acc1-github").style.borderRadius = "10px";
 document.getElementById("acc1-github").style.transition = "1s";
 document.getElementById("acc1-github").style.boxSizing = "border-box";
-document.getElementById("acc1-github").style.boxShadow = "20px 20px 20px #b25ac9";
+document.getElementById("acc1-github").style.boxShadow = "7px 7px 10px #b25ac9";
 document.getElementById("acc1-github").style.padding = "10px 7px";
 
 
@@ -197,7 +197,7 @@ document.getElementById("acc2-github").style.background = "rgb(232, 189, 243)";
 document.getElementById("acc2-github").style.borderRadius = "10px";
 document.getElementById("acc2-github").style.transition = "1s";
 document.getElementById("acc2-github").style.boxSizing = "border-box";
-document.getElementById("acc2-github").style.boxShadow = "20px 20px 20px #b25ac9";
+document.getElementById("acc2-github").style.boxShadow = "7px 7px 10px #b25ac9";
 document.getElementById("acc2-github").style.padding = "10px 7px";
 
 document.getElementById("another-git").style.marginTop = "3%";
@@ -220,7 +220,7 @@ document.getElementById("folls").style.background = "rgb(232, 189, 243)";
 document.getElementById("folls").style.borderRadius = "10px";
 document.getElementById("folls").style.transition = "1s";
 document.getElementById("folls").style.boxSizing = "border-box";
-document.getElementById("folls").style.boxShadow = "20px 20px 20px #b25ac9";
+document.getElementById("folls").style.boxShadow = "7px 7px 10px #b25ac9";
 
 
 document.getElementById("mengikuti").style.textAlign = "center";
@@ -239,7 +239,7 @@ document.getElementById("folling").style.background = "rgb(232, 189, 243)";
 document.getElementById("folling").style.borderRadius = "10px";
 document.getElementById("folling").style.transition = "1s";
 document.getElementById("folling").style.boxSizing = "border-box";
-document.getElementById("folling").style.boxShadow = "20px 20px 20px #b25ac9";
+document.getElementById("folling").style.boxShadow = "7px 7px 10px #b25ac9";
 
 document.getElementById("repo").style.textAlign = "center";
 document.getElementById("repo").style.fontFamily = "Domine";
@@ -257,7 +257,7 @@ document.getElementById("repos").style.background = "rgb(232, 189, 243)";
 document.getElementById("repos").style.borderRadius = "10px";
 document.getElementById("repos").style.transition = "1s";
 document.getElementById("repos").style.boxSizing = "border-box";
-document.getElementById("repos").style.boxShadow = "20px 20px 20px #b25ac9";
+document.getElementById("repos").style.boxShadow = "7px 7px 10px #b25ac9";
 
 
 document.getElementById("button-name").addEventListener("click", handleClick);
