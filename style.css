@@ -253,6 +253,7 @@ footer{
 
 .list {
     width: 30%;
+    overflow: hidden;
 }
 
 
