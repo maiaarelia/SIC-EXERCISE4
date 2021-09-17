@@ -129,6 +129,7 @@ document.getElementById('name1').style.fontSize = "20px";
 document.getElementById('button-name').style.borderRadius = "20px";
 document.getElementById('button-name').style.border = "none";
 document.getElementById('button-name').style.backgroundColor = "rgb(227, 170, 241)";
+document.getElementById('button-name').style.boxShadow = "10px 5px 5px white";
 
 
 document.getElementById("acc-github").style.flexBasis = "31%";
@@ -137,7 +138,7 @@ document.getElementById("acc-github").style.borderRadius = "10px";
 document.getElementById("acc-github").style.transition = "1s";
 document.getElementById("acc-github").style.boxSizing = "border-box";
 document.getElementById("acc-github").style.padding = "10px 7px";
-document.getElementById("acc-github").style.boxShadow = "7px 7px 20px #b25ac9";
+document.getElementById("acc-github").style.boxShadow = "20px 20px 20px #b25ac9";
 
 
 document.getElementById("git-id").style.textAlign = "center";
@@ -159,13 +160,14 @@ document.getElementById('id').style.borderRadius = "20px";
 document.getElementById('button-id').style.borderRadius = "20px";
 document.getElementById('button-id').style.border = "none";
 document.getElementById('button-id').style.backgroundColor = "rgb(227, 170, 241)";
+document.getElementById('button-id').style.boxShadow = "10px 5px 5px white";
 
 document.getElementById("acc1-github").style.flexBasis = "25%";
 document.getElementById("acc1-github").style.background = "rgb(232, 189, 243)";
 document.getElementById("acc1-github").style.borderRadius = "10px";
 document.getElementById("acc1-github").style.transition = "1s";
 document.getElementById("acc1-github").style.boxSizing = "border-box";
-document.getElementById("acc1-github").style.boxShadow = "7px 7px 20px #b25ac9";
+document.getElementById("acc1-github").style.boxShadow = "20px 20px 20px #b25ac9";
 document.getElementById("acc1-github").style.padding = "10px 7px";
 
 
@@ -187,6 +189,7 @@ document.getElementById('url').style.borderRadius = "20px";
 document.getElementById('button-url').style.borderRadius = "20px";
 document.getElementById('button-url').style.border = "none";
 document.getElementById('button-url').style.backgroundColor = "rgb(227, 170, 241)";
+document.getElementById('button-url').style.boxShadow = "10px 5px 5px white";
 
 
 document.getElementById("acc2-github").style.flexBasis = "23%";
@@ -194,7 +197,7 @@ document.getElementById("acc2-github").style.background = "rgb(232, 189, 243)";
 document.getElementById("acc2-github").style.borderRadius = "10px";
 document.getElementById("acc2-github").style.transition = "1s";
 document.getElementById("acc2-github").style.boxSizing = "border-box";
-document.getElementById("acc2-github").style.boxShadow = "7px 7px 20px #b25ac9";
+document.getElementById("acc2-github").style.boxShadow = "20px 20px 20px #b25ac9";
 document.getElementById("acc2-github").style.padding = "10px 7px";
 
 document.getElementById("another-git").style.marginTop = "3%";
@@ -217,7 +220,7 @@ document.getElementById("folls").style.background = "rgb(232, 189, 243)";
 document.getElementById("folls").style.borderRadius = "10px";
 document.getElementById("folls").style.transition = "1s";
 document.getElementById("folls").style.boxSizing = "border-box";
-document.getElementById("folls").style.boxShadow = "7px 7px 20px #b25ac9";
+document.getElementById("folls").style.boxShadow = "20px 20px 20px #b25ac9";
 
 
 document.getElementById("mengikuti").style.textAlign = "center";
@@ -236,7 +239,7 @@ document.getElementById("folling").style.background = "rgb(232, 189, 243)";
 document.getElementById("folling").style.borderRadius = "10px";
 document.getElementById("folling").style.transition = "1s";
 document.getElementById("folling").style.boxSizing = "border-box";
-document.getElementById("folling").style.boxShadow = "7px 7px 20px #b25ac9";
+document.getElementById("folling").style.boxShadow = "20px 20px 20px #b25ac9";
 
 document.getElementById("repo").style.textAlign = "center";
 document.getElementById("repo").style.fontFamily = "Domine";
@@ -254,7 +257,7 @@ document.getElementById("repos").style.background = "rgb(232, 189, 243)";
 document.getElementById("repos").style.borderRadius = "10px";
 document.getElementById("repos").style.transition = "1s";
 document.getElementById("repos").style.boxSizing = "border-box";
-document.getElementById("repos").style.boxShadow = "7px 7px 20px #b25ac9";
+document.getElementById("repos").style.boxShadow = "20px 20px 20px #b25ac9";
 
 
 document.getElementById("button-name").addEventListener("click", handleClick);
