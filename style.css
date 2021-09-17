@@ -161,22 +161,26 @@ h5{
     font-size: 20px;
     font-family: "Rokkitt";
 }
+
+.play{
+    align-items: center;
+}
 .list{
+    width: 30%;
     border-collapse: collapse;
     box-shadow: 0 7px 7px 7px rgb(189, 83, 189);
     overflow: hidden;
     border: 10px solid rgb(237, 209, 240);
+    align-items: center;
 }
 
 .list th {
     padding: 10px 7px;
-    text-align: left;
     font-family: "Trirong";
 }
 
 .list td {
     padding: 10px 7px;
-    text-align: left;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
@@ -260,11 +264,13 @@ footer{
 }
 
 .list {
-    width: 30%;
+    width: 10%;
     overflow: hidden;
 }
 
-
+.play {
+    align-items: center;
+}
 
 
 
