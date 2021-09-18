@@ -42,7 +42,7 @@ document.getElementById("nama").style.paddingTop = "132px";
 
 
 document.getElementById("status").style.textAlign = "center";
-document.getElementById("status").style.fontFamily = "verdana";
+document.getElementById("status").style.fontFamily = "Rokkitt";
 document.getElementById("status").style.fontSize = "30px";
 document.getElementById("status").style.color = "palevioletred";
 document.getElementById("status").style.padding = "10px";
@@ -93,9 +93,9 @@ document.getElementById("namalogin").style.fontSize = "33px";
 
 
 document.getElementById("statusakun").style.textAlign = "center";
-document.getElementById("statusakun").style.fontFamily = "verdana";
+document.getElementById("statusakun").style.fontFamily = "Rokkitt";
 document.getElementById("statusakun").style.fontSize = "30px";
-document.getElementById("statusakun").style.color = "palevioletred";
+document.getElementById("statusakun").style.color = "rgb(135, 6, 139)";
 document.getElementById("statusakun").style.paddingBottom = "20px";
 
 document.getElementById("kata").style.textAlign = "center";
@@ -105,16 +105,20 @@ document.getElementById("kata").style.color = "white";
 document.getElementById("kata").style.paddingBottom = "20px";
 
 
-
+document.getElementById('githubarel').style.backgroundColor = "-webkit-radial-gradient(right, #8340b9, #ce71d1)";
 
 document.getElementById("aboutgithub").style.marginTop = "3%";
 document.getElementById("aboutgithub").style.display = "flex";
 document.getElementById("aboutgithub").style.justifyContent = "space-around";
+document.getElementById("aboutgithub").style.backgroundColor = "rgb(207, 137, 224)";
+
+
 
 
 document.getElementById("username1").style.textAlign = "center";
-document.getElementById("username1").style.fontFamily = "Domine";
-document.getElementById("username1").style.fontSize = "30px";
+document.getElementById("username1").style.fontFamily = "Rokkitt";
+document.getElementById("username1").style.fontSize = "25px";
+document.getElementById("username1").style.color = "white";
 
 document.getElementById('username').style.textAlign = "center";
 document.getElementById('username').style.padding = "10px";
@@ -142,8 +146,9 @@ document.getElementById("acc-github").style.boxShadow = "7px 7px 10px #b25ac9";
 
 
 document.getElementById("git-id").style.textAlign = "center";
-document.getElementById("git-id").style.fontFamily = "Domine";
-document.getElementById("git-id").style.fontSize = "30px";
+document.getElementById("git-id").style.fontFamily = "Rokkitt";
+document.getElementById("git-id").style.fontSize = "25px";
+document.getElementById("git-id").style.color = "white";
 
 
 document.getElementById('id-github').style.textAlign = "center";
@@ -172,8 +177,9 @@ document.getElementById("acc1-github").style.padding = "10px 7px";
 
 
 document.getElementById("git-url").style.textAlign = "center";
-document.getElementById("git-url").style.fontFamily = "Domine";
-document.getElementById("git-url").style.fontSize = "30px";
+document.getElementById("git-url").style.fontFamily = "Rokkitt";
+document.getElementById("git-url").style.fontSize = "25px";
+document.getElementById("git-url").style.color = "white";
 
 document.getElementById('url-github').style.textAlign = "center";
 document.getElementById('url-github').style.padding = "10px";
@@ -203,10 +209,12 @@ document.getElementById("acc2-github").style.padding = "10px 7px";
 document.getElementById("another-git").style.marginTop = "3%";
 document.getElementById("another-git").style.display = "flex";
 document.getElementById("another-git").style.justifyContent = "space-around";
+document.getElementById("another-git").style.backgroundColor = "rgb(207, 137, 224)";
 
 document.getElementById("pengikut").style.textAlign = "center";
-document.getElementById("pengikut").style.fontFamily = "Domine";
-document.getElementById("pengikut").style.fontSize = "30px";
+document.getElementById("pengikut").style.fontFamily = "Rokkitt";
+document.getElementById("pengikut").style.fontSize = "25px";
+document.getElementById("pengikut").style.color = "white";
 
 
 document.getElementById('fol').style.textAlign = "center";
@@ -224,8 +232,9 @@ document.getElementById("folls").style.boxShadow = "7px 7px 10px #b25ac9";
 
 
 document.getElementById("mengikuti").style.textAlign = "center";
-document.getElementById("mengikuti").style.fontFamily = "Domine";
-document.getElementById("mengikuti").style.fontSize = "30px";
+document.getElementById("mengikuti").style.fontFamily = "Rokkitt";
+document.getElementById("mengikuti").style.fontSize = "25px";
+document.getElementById("mengikuti").style.color = "white";
 
 
 document.getElementById('ling').style.textAlign = "center";
@@ -242,8 +251,9 @@ document.getElementById("folling").style.boxSizing = "border-box";
 document.getElementById("folling").style.boxShadow = "7px 7px 10px #b25ac9";
 
 document.getElementById("repo").style.textAlign = "center";
-document.getElementById("repo").style.fontFamily = "Domine";
-document.getElementById("repo").style.fontSize = "30px";
+document.getElementById("repo").style.fontFamily = "Rokkitt";
+document.getElementById("repo").style.fontSize = "25px";
+document.getElementById("repo").style.color = "white";
 
 
 document.getElementById('repository').style.textAlign = "center";
