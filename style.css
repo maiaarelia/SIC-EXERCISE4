@@ -144,9 +144,10 @@ h5{
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 10px;
-    width: 100%;
+    width: 98%;
     text-align: center;
     background: -webkit-radial-gradient(right, #985aca, #ce71d1);
+    overflow: hidden;
   }
 
   .card {
@@ -268,11 +269,13 @@ footer{
 }
 
 #skil {
-    display: flex;
-    flex-wrap: wrap;
+    
     flex-direction: column;
     align-items: center;
     font-size: 15px;
+    width: 97%;
+    
+
 }
 
 .card img {
@@ -280,9 +283,12 @@ footer{
     flex-wrap: wrap;
     width: 70%;
     align-items: center;
+  
+    
 }
 
 .card {
+    align-items: center;
     display: flex;
     flex-wrap: wrap;
     text-align: justify;
