@@ -51,36 +51,50 @@ document.getElementById("status").style.padding = "10px";
 document.getElementById("h2").style.textAlign = "center";
 document.getElementById("h2").style.fontFamily = "trirong";
 document.getElementById("h2").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("h2").style.borderRadius = "5px";
 
 
 document.getElementById("h3").style.textAlign = "center";
 document.getElementById("h3").style.fontFamily = "trirong";
 document.getElementById("h3").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("h3").style.borderRadius = "5px";
 
 document.getElementById("h4").style.textAlign = "center";
 document.getElementById("h4").style.fontFamily = "trirong";
 document.getElementById("h4").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("h4").style.borderRadius = "5px";
 
 document.getElementById("h5").style.textAlign = "center";
 document.getElementById("h5").style.fontFamily = "trirong";
 document.getElementById("h5").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("h5").style.borderRadius = "5px";
 
 document.getElementById("h6").style.textAlign = "center";
 document.getElementById("h6").style.fontFamily = "trirong";
 document.getElementById("h6").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("h6").style.borderRadius = "5px";
 
 document.getElementById("h7").style.textAlign = "center";
 document.getElementById("h7").style.fontFamily = "trirong";
 document.getElementById("h7").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("h7").style.borderRadius = "5px";
 
 document.getElementById("h8").style.textAlign = "center";
 document.getElementById("h8").style.fontFamily = "trirong";
 document.getElementById("h8").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("h8").style.borderRadius = "5px";
 
 
 document.getElementById("h9").style.textAlign = "center";
 document.getElementById("h9").style.fontFamily = "trirong";
 document.getElementById("h9").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("h9").style.borderRadius = "5px";
+
+document.getElementById("h11").style.textAlign = "center";
+document.getElementById("h11").style.fontFamily = "trirong";
+document.getElementById("h11").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("h11").style.borderRadius = "5px";
+
 
 document.getElementById("ava").style.borderRadius = "50%";
 document.getElementById("ava").style.padding = "30px";
@@ -111,6 +125,7 @@ document.getElementById("aboutgithub").style.marginTop = "3%";
 document.getElementById("aboutgithub").style.display = "flex";
 document.getElementById("aboutgithub").style.justifyContent = "space-around";
 document.getElementById("aboutgithub").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("aboutgithub").style.borderRadius = "30px";
 
 
 
@@ -210,6 +225,7 @@ document.getElementById("another-git").style.marginTop = "3%";
 document.getElementById("another-git").style.display = "flex";
 document.getElementById("another-git").style.justifyContent = "space-around";
 document.getElementById("another-git").style.backgroundColor = "rgb(207, 137, 224)";
+document.getElementById("another-git").style.borderRadius = "30px";
 
 document.getElementById("pengikut").style.textAlign = "center";
 document.getElementById("pengikut").style.fontFamily = "Rokkitt";

@@ -5,12 +5,14 @@ body {
 
 #header {
     background: -webkit-radial-gradient(right, #e3aaf1, #bc78be);
+    border-radius: 10px;
 
 }
 
 #gambar {
     
     background: -webkit-radial-gradient(right, #e3aaf1, #ddaee9);
+    border-radius: 10px;
 }
 
 .row {
@@ -18,11 +20,13 @@ body {
     display: flex;
     justify-content: space-between;
     background: -webkit-radial-gradient(right, #c0519b, #bf61c2);
+    border-radius: 10px;
     
 }
 
 #githubarel {
     background: -webkit-radial-gradient(right, #985aca, #ce71d1);
+    border-radius: 20px;
 }
 
 
@@ -54,6 +58,8 @@ p {
     box-sizing: border-box;
     transition: 0.5s;
     box-shadow: 7px 7px 10px #b25ac9;
+    border-radius: 20px;
+    
 }
 
 #medsos {
@@ -76,6 +82,7 @@ p {
     text-align: center;
     padding: 10px 10px;
     background: -webkit-radial-gradient(right, #db83b9, #de8de0);
+    border-radius: 8px;
 }
 
 .col-3 h4 {
@@ -103,6 +110,7 @@ h4 {
     flex-wrap: wrap;
     justify-content: space-around;
     background: -webkit-radial-gradient(right, #c0519b, #bf61c2);
+    border-radius: 20px;
 }
 
 
@@ -148,6 +156,7 @@ h5{
     text-align: center;
     background: -webkit-radial-gradient(right, #985aca, #ce71d1);
     overflow: hidden;
+    border-radius: 20px;
   }
 
   .card {
@@ -187,6 +196,7 @@ h5{
 .play{
     align-items: center;
     background: -webkit-radial-gradient(right, #db83b9, #de8de0);
+    border-radius: 8px;
 }
 .list{
     border-collapse: collapse;
@@ -221,6 +231,31 @@ footer{
     font-family: "Domine";
   }
 
+  .bias {
+    display: flex;
+    justify-content: space-between;
+    background: -webkit-radial-gradient(right, #985aca, #ce71d1);
+    width: 80%;
+    text-align: center;
+    padding: 70px 20px 20px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.favo img {
+    width: 100%;
+    display: block;
+}
+.favo {
+    flex-basis: 30%;
+    margin-bottom: 20px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    overflow: hidden;
+}
+  
 @media screen and (max-width: 700px) {
 .row {
     flex-direction: column;
@@ -293,6 +328,12 @@ footer{
     flex-wrap: wrap;
     text-align: justify;
     display: contents;
+}
+
+.bias {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .list {
