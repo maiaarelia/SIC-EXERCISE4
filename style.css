@@ -240,11 +240,15 @@ footer{
     padding: 70px 20px 20px;
     margin: auto;
     border-radius: 20px;
+    cursor: pointer;
+   
 }
+
 
 .favo img {
     width: 100%;
     display: block;
+  
 }
 .favo {
     flex-basis: 30%;
